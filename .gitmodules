@@ -1,3 +1,3 @@
 [submodule "FinanceDataReader"]
 	path = FinanceDataReader
-url=https://github.com/exizt/FinanceDataReader-Custom.git
+	url = https://github.com/exizt/FinanceDataReader-Custom.git
