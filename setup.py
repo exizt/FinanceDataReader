@@ -8,5 +8,6 @@ setup(name='FinanceDataReader-forked',
             'requests>=2.3.0',
             'requests-file',
             'lxml',
-            'tqdm'
+            'tqdm',
+            'beautifulsoup4'
       ])
